@@ -1,0 +1,6 @@
+1.- La linea #1, #2; esta mal escrito las directivas de preprocesador, en lugar de utilizar comillas, se tiene que utilizar "<" y ">".
+	La linea #3; en lugar de ser STD es std.
+
+2.- No hay.
+
+4.- El uso de Ampersand en los parametros de h2.

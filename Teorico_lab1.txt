@@ -1,0 +1,9 @@
+1) En la linea #10, en lugar de utilizar el operador de insercion de flujo se tendria que utilizar el operador de extraccion de flujo.
+
+2) En la linea #5 #8, inicializar el bool en false y luego evaluarlo como si estuviera en verdadero en el while. El bool se tuvo que haber sido inicializado en true para evitar este error.
+
+3) En la linea #28, la contruccion del for esta mal, la variable i tendria que aumentar en lugar de disminuir.
+
+4) Se tendria que utilizar std:: antes de cada entrada o salida del programa.
+
+5) Podriamos utilizar el std:: antes de cada entrada o salida del programa, o bien utilizar el using std::cout, using std::cin y el std::endl, lo que nos permitiria utilizar, tambien, las entradas y salidas del programa.

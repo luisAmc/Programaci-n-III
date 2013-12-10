@@ -1,0 +1,20 @@
+Constructor de Object
+Constructor Person
+Constructor de Object
+Constructor Person
+Constructor de Object
+Constructor Person
+Constructor Student
+Constructor de Object
+Constructor Person
+Constructor Employee
+Destructor Person
+Destructor de Object
+Destructor Person
+Destructor de Object
+Destructor Student
+Destructor Person
+Destructor de Object
+Destructor Employee
+Destructor Person
+Destructor de Object
